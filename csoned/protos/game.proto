@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PlayerPosition{
+  optional float x = 1;
+  optional float y = 2;
+}

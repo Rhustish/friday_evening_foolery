@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/bhavy/friday_evening_foolery/csoned/server/build",
+  "command": "/usr/sbin/c++  -I/home/bhavy/friday_evening_foolery/csoned/server/include  -o CMakeFiles/CsOneDServer.dir/src/TcpServer.cpp.o -c /home/bhavy/friday_evening_foolery/csoned/server/src/TcpServer.cpp",
+  "file": "/home/bhavy/friday_evening_foolery/csoned/server/src/TcpServer.cpp",
+  "output": "CMakeFiles/CsOneDServer.dir/src/TcpServer.cpp.o"
+},
+{
+  "directory": "/home/bhavy/friday_evening_foolery/csoned/server/build",
+  "command": "/usr/sbin/c++  -I/home/bhavy/friday_evening_foolery/csoned/server/include  -o CMakeFiles/CsOneDServer.dir/src/main.cpp.o -c /home/bhavy/friday_evening_foolery/csoned/server/src/main.cpp",
+  "file": "/home/bhavy/friday_evening_foolery/csoned/server/src/main.cpp",
+  "output": "CMakeFiles/CsOneDServer.dir/src/main.cpp.o"
+}
+]
